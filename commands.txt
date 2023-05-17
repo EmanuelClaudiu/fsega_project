@@ -1,0 +1,7 @@
+npm i -> in /backend si in /frontend ca sa instalezi dependente
+
+backend -> node index.js (ca sa pornesti)
+
+frontend -> npm start (sa pornesti frontu)
+
+din root -> json-server --watch db.json (sa pornesti json serveru)
