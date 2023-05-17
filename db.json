@@ -1,0 +1,16 @@
+{
+  "fighters": [
+    {
+      "id": 3,
+      "name": "Israel Adesanya"
+    },
+    {
+      "id": "4",
+      "name": "McGregor"
+    },
+    {
+      "id": "5",
+      "name": "Khamzat Chimaev"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.table-row {
+  display: flex;
+  column-gap: 2em;
+  border-bottom: 1px solid black;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5em;
+}
